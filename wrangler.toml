@@ -1,0 +1,4 @@
+name = "qr-api"
+type = "webpack"
+account_id = "ACCOUNT_ID"
+workers_dev = true
