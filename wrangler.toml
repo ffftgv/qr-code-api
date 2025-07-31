@@ -1,3 +1,4 @@
-name = "qr-api"
+名字 = "qr-api"
 main = "index.js"
 compatibility_date = "2024-07-31"
+workers_dev = true
